@@ -24,4 +24,4 @@
   You can report issues by contacting me personally at my email
 
   ## HerokuLink:
-  https://google-books-search-vb.herokuapp.com
+  
